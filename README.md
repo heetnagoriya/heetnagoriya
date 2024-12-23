@@ -5,7 +5,7 @@ As an Information Technology student, I’m deeply driven by the power of techno
 I'm constantly learning, constantly building, and always excited to collaborate on projects that push the boundaries of what’s possible.
 
 ## 👨🏻‍🎓 About Me
-- 📖I am currently pursuing a Bachelor of Technology degree in Information Technology and am in my 4th semester at G H Patel College of Engineering and Technology.
+- 📖 I am currently pursuing a Bachelor of Technology degree in Information Technology and am in my 4th semester at G H Patel College of Engineering and Technology.
 - ⚡️ Skilled in solving problems related to Data Structures, Algorithms, and Database Management Systems, focusing on optimizing performance and ensuring efficient solutions.
 - 🧠 Currently expanding my knowledge in Web Development.
 - ✉️ Feel free to reach out to me at:
