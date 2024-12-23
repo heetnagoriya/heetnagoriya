@@ -10,7 +10,8 @@ I'm constantly learning, constantly building, and always excited to collaborate 
 - 🧠 Currently expanding my knowledge in Web Development.
 - ✉️ Feel free to reach out to me at:
   - Email: heetnagoriya@gmail.com
-  - LinkedIn: linkedin.com/in/heetnagoriya
+  - LinkedIn: [in/heetnagoriya](https://linkedin.com/in/heetnagoriya)
+
 
 ## 🧑🏻‍💻 Skills
 - **Languages**: Java, C, C++, Python, JavaScript, SQL, PL/SQL
