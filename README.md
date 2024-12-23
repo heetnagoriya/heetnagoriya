@@ -1,16 +1,17 @@
-## Hi there 👋
+Hello! I'm Heet Nagoriya,
 
-<!--
-**heetnagoriya/heetnagoriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As an Information Technology student, I’m deeply driven by the power of technology to innovate and simplify the world around us. From coding and software development to experimenting with emerging technologies, I thrive on exploring new possibilities. Every line of code is a chance to create something impactful—whether it’s a solution to a tricky problem or a new open-source project to help others.
 
-Here are some ideas to get you started:
+I'm constantly learning, constantly building, and always excited to collaborate on projects that push the boundaries of what’s possible.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏻‍🎓I am currently pursuing a Bachelor of Technology degree in Information Technology and am in my 4th semester at G H Patel College of Engineering and Technology.
+⚡️I am skilled in solving problems related to Data Structures, Algorithms, and Database Management Systems, with a focus on optimizing performance and ensuring efficient solutions.
+🧠I am currently expanding my knowledge in Web Development.
+✉️Feel free to reach out to me at heetnagoriya@gmail.com or linkedin.com/in/heetnagoriya
+
+
+🧑🏻‍💻Skills
+
+Languages: Java, C, C++, Python, JavaScript, SQL, PL/SQL
+Database: MySQL, MariaDB. 
+
