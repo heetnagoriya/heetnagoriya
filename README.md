@@ -4,14 +4,16 @@ As an Information Technology student, I’m deeply driven by the power of techno
 
 I'm constantly learning, constantly building, and always excited to collaborate on projects that push the boundaries of what’s possible.
 
-👨🏻‍🎓I am currently pursuing a Bachelor of Technology degree in Information Technology and am in my 4th semester at G H Patel College of Engineering and Technology.
-⚡️I am skilled in solving problems related to Data Structures, Algorithms, and Database Management Systems, with a focus on optimizing performance and ensuring efficient solutions.
-🧠I am currently expanding my knowledge in Web Development.
-✉️Feel free to reach out to me at heetnagoriya@gmail.com or linkedin.com/in/heetnagoriya
+-👨🏻‍🎓I am currently pursuing a Bachelor of Technology degree in Information Technology and am in my 4th semester at G H Patel College of Engineering and Technology.
+-⚡️I am skilled in solving problems related to Data Structures, Algorithms, and Database Management Systems, with a focus on optimizing performance and ensuring efficient solutions.
+-🧠I am currently expanding my knowledge in Web Development.
+-✉️Feel free to reach out to me at heetnagoriya@gmail.com or linkedin.com/in/heetnagoriya
 
 
 🧑🏻‍💻Skills
 
-Languages: Java, C, C++, Python, JavaScript, SQL, PL/SQL
-Database: MySQL, MariaDB. 
+-Languages: Java, C, C++, Python, JavaScript, SQL, PL/SQL
+-Database: MySQL, MariaDB. 
+
+
 
