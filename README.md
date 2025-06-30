@@ -14,6 +14,6 @@ I'm constantly learning, constantly building, and always excited to collaborate 
 
 
 ## 🧑🏻‍💻 Skills
-- **Languages**: Java, C, C++, Python, JavaScript, SQL, PL/SQL
-- **Database**: MySQL, MariaDB
+- **Languages**: Java, C, C++, Python, JavaScript, SQL, PL/SQL, PHP.
+- **Database**: MySQL, MariaDB, MongoDB
 
