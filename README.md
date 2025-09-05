@@ -3,7 +3,7 @@
 🚀 Backend & Cloud Developer | AI Explorer
 
 I’m a 5th-semester Information Technology student passionate about building scalable backend systems, cloud-native applications, and AI-powered platforms.
-I focus on projects that go beyond CRUD — integrating AWS, Docker, Kubernetes, CI/CD, and AI/ML into production-ready architectures.
+I specialize in creating end-to-end industry-grade solutions — combining AWS, Docker, Kubernetes, CI/CD, and AI/ML to deliver production-ready architectures.
 
 🛠️ Tech Stack
 
